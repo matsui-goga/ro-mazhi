@@ -1,0 +1,259 @@
+-	ー
+~	〜
+.	。
+,	、
+z/	・
+z.	…
+z,	‥
+zl	→
+z-	〜
+z[	『
+z]	』
+[	「
+]	」
+va	ゔぁ
+vi	ゔぃ
+vu	ゔ
+ve	ゔぇ
+vo	ゔぉ
+x	っ
+qq	っ	q
+vv	っ	v
+ll	っ	l
+kk	っ	k
+gg	っ	g
+ss	っ	s
+zz	っ	z
+jj	っ	j
+tt	っ	t
+dd	っ	d
+hh	っ	h
+ff	っ	f
+bb	っ	b
+pp	っ	p
+mm	ん	m
+yy	っ	y
+rr	っ	r
+ww	っ	w
+www	w	ww
+cc	っ	c
+sha	しゃ
+shi	し
+shu	しゅ
+she	しぇ
+sho	しょ
+sca	しゃ
+sci	し
+scu	しゅ
+sce	しぇ
+sco	しょ
+cha	ちゃ
+chi	ち
+chu	ちゅ
+che	ちぇ
+cho	ちょ
+tsha	ちゃ
+tshi	ち
+tshu	ちゅ
+tshe	ちぇ
+tsho	ちょ
+tsca	ちゃ
+tsci	ち
+tscu	ちゅ
+tsce	ちぇ
+tsco	ちょ
+dza	づぁ
+dzi	づぃ
+dzu	づ
+dze	づぇ
+dzo	づぉ
+dzha	ぢゃ
+dzhi	ぢ
+dzhu	ぢゅ
+dzhe	ぢぇ
+dzho	ぢょ
+dzca	ぢゃ
+dzci	ぢ
+dzcu	ぢゅ
+dzce	ぢぇ
+dzco	ぢょ
+tsa	つぁ
+tsi	つぃ
+tsu	つ
+tse	つぇ
+tso	つぉ
+twa	とぁ
+twi	とぃ
+twu	とぅ
+twe	とぇ
+two	とぉ
+t'u	とぅ
+dwa	どぁ
+dwi	どぃ
+dwu	どぅ
+dwe	どぇ
+dwo	どぉ
+d'u	どぅ
+fa	ふぁ
+fi	ふぃ
+fu	ふ
+fe	ふぇ
+fo	ふぉ
+hwa	ふぁ
+hwi	ふぃ
+hwe	ふぇ
+hwo	ふぉ
+hwyu	ふゅ
+n'	ん
+nn	ん
+n	ん
+a	あ
+i	い
+u	う
+wu	う
+e	え
+o	お
+la	ぁ
+li	ぃ
+lu	ぅ
+le	ぇ
+lo	ぉ
+lyi	ぃ
+lye	ぇ
+ye	いぇ
+ka	か
+ki	き
+ku	く
+ke	け
+ko	こ
+lka	ヵ
+lke	ヶ
+ga	が
+gi	ぎ
+gu	ぐ
+ge	げ
+go	ご
+sa	さ
+si	すぃ
+su	す
+se	せ
+so	そ
+ca	か
+ci	し
+cu	く
+ce	せ
+co	こ
+qa	くぁ
+qi	くぃ
+qu	く
+qe	くぇ
+qo	くぉ
+kwa	くぁ
+kwi	くぃ
+kwe	くぇ
+kwo	くぉ
+gwa	ぐぁ
+za	ざ
+zi	ずぃ
+zu	ず
+ze	ぜ
+zo	ぞ
+ja	ゃ
+ji	ぃ
+ju	ゅ
+je	ぇ
+jo	ょ
+ta	た
+ti	てぃ
+tu	とぅ
+te	て
+to	と
+da	だ
+di	でぃ
+du	どぅ
+de	で
+do	ど
+ltsu	っ
+na	な
+ni	に
+nu	ぬ
+ne	ね
+no	の
+ha	は
+hi	ひ
+hu	ふ
+fu	ふ
+he	へ
+ho	ほ
+ba	ば
+bi	び
+bu	ぶ
+be	べ
+bo	ぼ
+pa	ぱ
+pi	ぴ
+pu	ぷ
+pe	ぺ
+po	ぽ
+ma	ま
+mi	み
+mu	む
+me	め
+mo	も
+lya	ゃ
+ya	や
+wyi	ゐ
+lyu	ゅ
+yu	ゆ
+wye	ゑ
+lyo	ょ
+yo	よ
+ra	ら
+ri	り
+ru	る
+re	れ
+ro	ろ
+lwa	ゎ
+wa	わ
+wi	うぃ
+we	うぇ
+wo	を
+wha	うぁ
+whi	うぃ
+whu	う
+whe	うぇ
+who	うぉ
+zha	じゃ
+zhi	じ
+zhu	じゅ
+zhe	じぇ
+zho	じょ
+sk	す	k
+st	す	t
+sp	す	p
+sm	す	m
+sr	す	r
+ks	く	s
+kt	く	t
+kr	く	r
+bz	ぶ	z
+bd	ぶ	d
+pr	ぷ	r
+br	ぶ	r
+dr	ど	r
+kj	き	j
+sj	す	j
+tj	て	j
+nj	に	j
+mj	み	j
+hj	ひ	j
+fj	ふ	j
+dj	で	j
+tsj	つ	j
+gj	ぎ	j
+zj	ず	j
+rj	り	j
+vj	ゔ	j
+pj	ぴ	j
+bj	び	j
+dzj	づ	j
